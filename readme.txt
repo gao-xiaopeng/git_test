@@ -4,3 +4,4 @@ Git is free software.
 牛p牛p
 有点东西哦
 git暂存区是个神马东西呢?
+Git跟踪并管理的是修改，而非文件。
